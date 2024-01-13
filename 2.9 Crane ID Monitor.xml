@@ -110,7 +110,7 @@
     </Access>
     <Access Scope="TypedConstant" UId="25">
       <Constant>
-        <ConstantValue>s5t#5s</ConstantValue>
+        <ConstantValue>s5t#25s</ConstantValue>
       </Constant>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
